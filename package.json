@@ -1,0 +1,24 @@
+{
+  "name": "@fehujs/tsconfig",
+  "version": "1.0.0",
+  "description": "TS config base for FehuJS projects",
+  "files": [
+    "tsconfig.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fehujs/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig"
+  ],
+  "author": "Pascal LLeonart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fehujs/tsconfig/issues"
+  },
+  "homepage": "https://github.com/fehujs/tsconfig#readme"
+}
