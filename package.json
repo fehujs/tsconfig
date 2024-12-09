@@ -1,6 +1,7 @@
 {
   "name": "@fehujs/tsconfig",
   "version": "1.0.0",
+  "private": false,
   "description": "TS config base for FehuJS projects",
   "files": [
     "tsconfig.json"
